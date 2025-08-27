@@ -9,4 +9,4 @@ def greeting():
 
 
 if __name__ == "__main__":
-    mcp.run("streamable-http" )
+    mcp.run("streamable-http")
